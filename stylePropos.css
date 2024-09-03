@@ -1,0 +1,95 @@
+html{
+    margin: 0;
+    padding: 0;
+    
+}
+
+span{
+    font-weight: bolder;
+}
+
+.titre{
+    margin-top: 70px;
+    margin-left: 115px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: "Prompt", sans-serif;
+}
+
+.premierCoodronnees{
+    margin-left: 115px;
+    margin-top: -20px;
+    color: rgb(113, 151, 151);
+    font-size: 25px;
+    font-family: "Prompt", sans-serif;
+}
+
+#texte{
+    margin-left: 115px;
+    margin-top: 85px;
+    font-size: 30px;
+    font-family: "Prompt", sans-serif;
+}
+
+#signature{
+    font-family: "Prompt", sans-serif;
+    margin-left: 115px;
+    margin-top: 100px;
+}
+
+#posteSignature{
+    font-family: "Prompt", sans-serif;
+    margin-left: 115px;
+    margin-top: -35px;
+}
+
+footer{
+    margin-top: 150px;
+}
+.partieNoire{
+    background-color: rgb(75, 75, 97);
+    height: 200px;
+}
+
+#secondCoodronnees{
+    font-family: "Prompt", sans-serif;
+    margin-left: 170px;
+    font-size: 35px;
+    color: white;
+    padding-top: 50px;
+}
+
+.contact{
+    list-style-type: none;
+    margin-top: -50px;
+    margin-left: 170px;
+    display: flex;
+
+}
+
+.contact li{
+    display: flex;
+    font-family: "Prompt", sans-serif;
+    font-size: 30px;
+    margin-right: 100px;
+    color: white;
+}
+
+svg{
+
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: rgb(228, 99, 7);
+
+}
+
+.partieOrange{
+    margin-top: -20px;
+    background-color: rgb(228, 99, 7);
+    height: 80px;
+}
+#texteInvisible{
+    visibility: hidden;
+}
